@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/williars/M-drive/oblig4/devel -DCMAKE_INSTALL_PREFIX=/home/williars/M-drive/oblig4/install -G Unix Makefiles
